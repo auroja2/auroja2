@@ -37,7 +37,7 @@
 
 ### 🔗 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/auroja-peshin-24032a363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="11aaurojapeshin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/auroja2" target="blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
 </p>
