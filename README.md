@@ -7,7 +7,7 @@
 - 🔭 Currently working on **Computer Vision & MLOps projects**
 - 🌱 Learning **Deep Learning, NLP & Cloud Deployment**
 - 🎯 Goal: To become an **AI Engineer**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **11aaurojapeshin@gmail.com**
 
 ---
 
