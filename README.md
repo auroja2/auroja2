@@ -35,7 +35,7 @@
 
 ---
 [![Auroja’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=auroja2&theme=github-compact)]
-- ![Pull Requests](https://img.shields.io/github/issues-pr-closed/auroja2/auroja2?color=green&label=PRs%20Merged)
+-
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/auroja-peshin-24032a363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
