@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=auroja2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+[![Auroja's GitHub stats](https://github-readme-stats.vercel.app/api?username=auroja2&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![Auroja’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=auroja2&theme=github-compact)]
