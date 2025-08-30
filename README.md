@@ -34,7 +34,7 @@
 </p>
 
 ---
-[![Auroja’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=auroja2&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph
+[![Auroja’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=auroja2&theme=github-compact)]
 - 
 ### 🔗 Connect with me
 <p align="left">
