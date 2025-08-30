@@ -32,22 +32,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=auroja2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-name: Update README with Recent Activity
 
-on:
-  schedule:
-    - cron: "*/30 * * * *" # Update every 30 min
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@v2
-        with:
-          GH_USERNAME: auroja2
-          COMMIT_MSG: "⚡ Update README with the recent activity"
 
 ---
 [![Auroja’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=auroja2&theme=github-compact)]
