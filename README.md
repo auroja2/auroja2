@@ -34,8 +34,7 @@
 </p>
 
 ---
-- Merged PR: [Added feature to XYZ Project](https://github.com/owner/repo/pull/12)
-- Merged PR: [Improved notebook in ABC Repo](https://github.com/owner/repo/pull/34)
+- 
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/auroja-peshin-24032a363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
